@@ -25,4 +25,7 @@ This project demonstrates a **Stripe Payment Integration** along with basic **Ad
 ## ⚙️ Environment Setup
 
 Create a `.env` file in the root of your project and add:
+```bash
+STRIPE_SECRET_KEY=sk_test_51QWz5HCY7kDIKPcgVNWJpSLxWuKqCQzu1Hm6l9Ejxhj93VhQDCOqA5jSxx2ZyEHbDvlhyZIfuUaWBQsQNAYHFITA00rOxbVnUn
+PORT=8000
 
